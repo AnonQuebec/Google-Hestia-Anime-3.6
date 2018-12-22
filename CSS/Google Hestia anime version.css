@@ -11,6 +11,9 @@
                url-prefix(https://translate.google),
                url-prefix(https://encrypted.google),
                url-prefix(https://www.google),
+               url-prefix(https://www.google.com/_/chrome/newtab?rlz=1C1CHBD_enCA808CA808&ie=UTF-8)
+               url-prefix(http*://www.google.*/_/chrome*)
+               url-prefix(https://www.google.com/_/chrome/newtab?rlz=*)
                url-prefix(https://www.google),
                url-prefix(https://images.google),
                url-prefix(https://news.google),
