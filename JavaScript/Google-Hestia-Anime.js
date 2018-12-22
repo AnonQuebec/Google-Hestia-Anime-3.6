@@ -29,7 +29,9 @@
 // @include       http://www.google.com/_/chrome*
 // @include       https://www.google.ca/_/chrome*
 // @include       http://www.google.ca/_/chrome*
+// @include       https://www.google.com/_/chrome/newtab?rlz=1C1CHBD_enCA808CA808&ie=UTF-8
 // @include       http*://www.google.*/_/chrome*
+// @include       https://www.google.com/_/chrome/newtab?rlz=*
 // @grant         unsafeWindow
 // @grant         GM_xmlhttpRequest
 // @run-at        document-start
