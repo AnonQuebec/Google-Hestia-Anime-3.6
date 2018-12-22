@@ -1,7 +1,7 @@
 // @name          Google Hestia (anime) version 3.6
 // @icon          https://raw.githubusercontent.com/tangxiadi/Google-Hestia-Anime/master/Anime/icon2.0.png
 // @description	  Hestia Dance on Google search engine 
-// @namespace     https://github.com/cracksoft/Google-Hestia-Anime
+// @namespace     https://github.com/cracksoft/Google-Hestia-Anime-3.6
 // @author        tangxiadi
 // @editor	  cracksoft
 // @homepage      http://tangxiadi.cn
@@ -102,4 +102,4 @@ if (typeof GM_addStyle != "undefined") {
 		document.documentElement.appendChild(node);
 	}
 }
-})();
+// })();
